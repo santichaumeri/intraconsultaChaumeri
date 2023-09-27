@@ -1,0 +1,9 @@
+package ar.unlam.intraconsulta;
+
+public enum TipoNota {
+	PRIMER_PARCIAL, 
+	SEGUNDO_PARCIAL, 
+	RECUPERATORIO_PRIMERPARCIAL, 
+	RECUPERATORIO_SEGUNDOPARCIAL,
+	FINAL;
+}
